@@ -76,7 +76,7 @@ which is a key security and usability best practice.
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Backend Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?logo=spring-boot&logoColor=white)                                                                                                           |
 | **Language** | ![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk&logoColor=white)                                                                                                                   |
-| **Security** | ![Spring Security](https://img.shields.io/badge/Spring_Security-6.x-green?logo=spring-security&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)                   |
+| **Security** | ![Spring Security](https://img.shields.io/badge/Spring_Security-6-green?logo=spring-security&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)                   |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-green?logo=spring&logoColor=white)                         |
 | **Development Tools** | ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-red?logo=apache-maven&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-purple?logo=lombok&logoColor=white) |
 
